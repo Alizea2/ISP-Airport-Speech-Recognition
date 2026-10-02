@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+# Vosk models are downloaded by download_models.sh (too large for GitHub)
+models/
